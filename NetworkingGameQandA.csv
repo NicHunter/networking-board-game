@@ -1,0 +1,544 @@
+ Algorithm ,A list of instructions that describe how to do a particular task. 
+Absolute Error,The difference between the actual number and the nearest representable value.
+Abstract Data Type (Adt),An object whose properties are specified independently of any particular programming language.
+Abstraction,Picking out the important bits of information.
+Accumulator,The part of the ALU that stores the intermediate results when doing a calculation.
+Active Attack (Networks),A network attack where the hacker attempts to change data or introduce malware.
+Algorithm,A step-by-step set of rules or instructions.
+Algorithmic Thinking,Coming up with an algorithm to solve a problem.
+Alphanumeric,"The collective name for letters, digits and symbols."
+Alu (Acronym),Arithmetic and Logic Unit. The part of the CPU that carries out mathematical and Boolean operations.
+Analogue Signal,A continuous signal which can't be processed by a computer.
+And Logic Gate,"A logic gate with two inputs. The output will be on if both of the inputs are on. If either is off, the output will be off."
+And Operator,"One of the Boolean operators. The result is true if both of the conditions are true. If either are false, the result is false."
+Anti-Malware Software,Software designed to stop malware from damaging a computer or network.
+App,Software for phones and tablets usually with one particular purpose.
+Application,"A piece of software written to help users do various tasks, often through a graphical user interface with menus and toolbars."
+Application Programming Interface (Api),A layer of software that allows application programs to call on the services of the operating system.
+Architecture,Describes how the CPU works and interacts with the other parts of the computer system.
+Argument,A value that a parameter of a sub program actually takes.
+Arithmetic Operator,An operator that programs use to carry out simple mathematical operations.
+Array,A data structure where all the data is stored and defined under one variable name.
+ASCII,A 7-bit character set consisting of 128 characters (8th bit is used as parity bit).
+Assembler,A program that turns assembly language into machine code.
+Assembly Language,A low-level language.
+Assignment Operator (=),Assigns the value on the right hand side to the name on the left hand side.
+Asynchronous Serial Data Transmission,Transmission system in which the sender and receiver have separate clocks which are not kept synchronised. 
+Attribute,A property or characteristic of an entity (databases) or an object (OOP).
+Authentication,A process for checking the identity of the user.
+Auto-Documentation,A programming tool commonly used to make a summary of a program.
+Automation,Turning an abstraction into a form that can be processed by a computer.
+Backdoor,A vulnerability in a computer or network's security that a hacker could exploit.
+Backup Utilities,Software which can automatically create a copy of the files and settings on your computer at a given time. This will allows the users to restore work in the event of an error or issue.
+Bandwidth,The amount of data that can be transferred on a network in a given time.
+Baud Rate,The rate at which signals on a wire may change.
+Binary,A counting system using base-2 consisting of Os and 1s.
+Binary Addition,"The process of adding two binary numbers together. The rules for each digit: 1 + 1 = 0 with carry; 1 + 0 = 1 with no carry; 0 + 1 = 1 with no carry; 0 + 0 = 0 with no carry, 1 + 1 + carry = 1 with carry."
+Binary Converting To/From Denary,The process of converting binary numbers to or from decimal (Base 10).
+Binary Converting To/From Hexadecimal,The process of converting binary numbers to or from hexadecimal (Base 16).
+Binary Overflow,"When the binary number resulting from some arithmetic is to large for the available space, the overflow or carry flag is set."
+Binary Search Algorithm,A searching approach where a list is split in two. The target value is compared to the middle item and the half which cannot contain the target value is discarded. The process is repeated until the target value is found or the list is exhausted.
+Binary Shift,Moving the bits in a binary number left or right and filling the gaps with Os.
+BIOS ,Basic Input Output System check. It checks that the computer hardware is all present and working correctly when you power up a computer system. 
+Bit,"A binary digit, either O or 1."
+Bit Rate,The number of bits transmitted per second.
+Bitmap Image,A graphic that is made up of pixels.
+Blacklist,A list of inputs that a program should reject.
+Boolean,"A logical system using the operators OR, AND and NOT. The Boolean data can take one of two values, either true or false."
+Boolean Data Type,A variable or statement which can have either a TRUE or FALSE value.
+Boolean Logic Gates,"Logic circuits are special circuits built into computer chips. They receive binary data, apply Boolean operations and output binary results."
+Boolean Operators,A set of words used as connectives to combine one or more statements or variables to produce either a TRUE or FALSE value.
+Booting Up ,Starting up a computer is also known as 'booting up' the computer. 
+Breakpoint,A programming tool used to halt a program at a specific place.
+Broadband,A multiple data channel system in which the bandwidth of the transmission medium carries several data streams at the same time.
+Brute Force Attack,A network attack which uses software to crack security passwords through trial and error.
+Bubble Sort,"A sorting algorithm where during a pass, neighbouring values are compared and swapped. Passes are made until no further swaps are needed."
+Bus Topology,A network topology in which all devices are connected to a single backbone cable.
+Byte,8 bits.
+Cache (CPU),Quick access memory inside the CPU.
+Cache Memory ,Very fast access memory which is close to the processor and stores frequently used data. 
+Casting,A way of changing from one data type to another.
+Cat 5E/Cat 6 Cable,Standards for copper Ethernet cables used on LANs.
+Censorship,The control (usually by a government or organisation) of what information other people can access.
+Channel (Wi-Fi),A small range of Wi-Fi frequencies.
+Character,A single alphanumeric symbol.
+Character (As A Data Type),"A type of data which represents a single alphanumeric item. This could be the letter ""a"", an exclamation mark or a ""non-printable"" (invisible) item like a space or tab."
+Character Set,A group of characters that a computer recognises from their binary representation.
+Check Digit,A digit added to a string of digits which is used to check if all the digits have been entered and read correctly.
+Checksum,A number used to check if a packet of data sent between network s has been received correctly.
+Cipher Text,Message data after it has been encrypted.
+Client,A computer that uses the services provided by a server.
+Client-Server Network,"A type of network managed by a server, which takes requests from client devices."
+Client-Server System,"A system in which some computers (the clients), request services provided by other computers, the servers."
+Clock Speed ,"The speed at which the processor carries out instructions, measured in Megahertz (MHz) or Gigahertz (GHz). "
+Cloud Computing,The use of the Internet to store files and provide software. Also known as the cloud.
+Code Editor,Part of an IDE where you write and edit your source code.
+Colour Depth,The number of bits used for each pixel in an image file.
+Command-Line Interface,A text-based user interface where the user types in commands.
+Comment,A note added to source code to say what part of a program does.
+Communication Protocol,"A set of agreed signals, codes and rules to be used for data and information exchange between computers."
+Comparison Operator,Compares two values and outputs either true or false.
+Compiled Code,An executable file created by a compiler.
+Compiler,A programming tool to translate source code into machine code.
+Complexity Of A Problem,Taken to be the worst case complexity of the most efficient algorithm which solves the problem.
+Compression,The process of making the size of a file smaller.
+Computational Complexity,A measure of how economical an algorithm is with time and space.
+Computational Thinking,"Tackling a problem through decomposition, abstraction and algorithmic thinking."
+Computer Misuse Act,"Legislation which is designed to protect users from attacks or theft of information. Offences under the act include Hacking, unauthorised access to a computer system or spreading malicious or damaging software (e.g. viruses)"
+Computer System ,"A computer system takes a set of inputs, processes them and creates a set of outputs using hardware and software. "
+Concatenation,Joining strings together.
+Condition-Controlled Loop,An iteration statement that repeats a set of instructions until a condition is met.
+Constant,A named value which cannot be altered as the program is running.
+Control unit (CU),The part of the CPU that controls the flow of data.
+"Copyright, Designs And Patents Act","Legislation which gives the creators of software (or other things such as paintings, books or music) the right to control the ways in which their material may be used."
+Core (CPU),A processing unit found inside the CPU.
+Count-Controlled Loop,An iteration statement that repeats a set of instructions a given number of times.
+CPU ,Central Processing Unit also called as Processor. 
+CPU performance,"Ways in which the speed at which the CPU process instructions can be affected (e.g. improving the clock speed, increasing the number of cores or adding more cache memory)"
+Creative Commons Licence,Permits sharing of a creative work as long as certain requests from the original creator are upheld.
+Cryptanalysis,A method of trying to find the plain text from the cipher text without the decryption key.
+Cryptography,The science of designing cipher systems.
+CU (acronym),Control Unit
+Cultural Issue,"An issue which affects a particular religious, ethnic, national or other group."
+Custom Written Software Or Bespoke Software ,The software system which is designed and developed specifically for a purpose or company. 
+Cyberbullying,Using social media to deliberately harm someone else.
+Data Protection Act,"Legislation which controls how an individual's personal information may be used or kept by the organisations, businesses or government bodies which process it."
+Data Transmission,Movement of data.
+Data Type,"TelIs you what kind of data it is, e.g. integer, real, string, etc."
+Database,A structured collection of data.
+Debugging,Identifying and fixing errors in a program.
+Decomposition,Breaking a problem down into smaller problems.
+Decryption,Using an algorithm and a key to convert encrypted message data into its plain text equivalent.
+Dedicated System,A computer system designed to carry out a specific task.
+Defensive Design,A method of designing a program so that it functions properly and doesn't crash.
+Defragmentation,Reorganising data on a hard drive to put broken up files back together and collect up the free space.
+Denary,A number system using base-10. Also known as decimal.
+Denary Converting To/From Binary,The process of converting decimal numbers to or from binary (Base 2).
+Denary Converting To/From Hexadecimal,The process of converting decimal numbers to or from hexadecimal (Base 16).
+Denial-Of-Service Attack,A network attack which stops users from accessing a part of a network or website.
+Designs And Patents Act,Part of the Copyright Legislation which protects the planning stages and unique properties of creative items from being copied without the consent of their creator.
+Device Driver,A piece of software that allows applications to communicate with a piece of hardware.
+Digital Divide,The inequality created by the fact that some people have greater access to technology than others.
+Digital Signal,The representation of an analogue signal using binary data.
+Disk Management,Organisation and maintenance of the hard disk.
+Distinguished,With a monocle.
+DO WHILE loop,Type of iteration statement.
+Domain Name Server (Dns),A server which stores website domain names and their IP addresses.
+Dongle,A small piece of hardware which allow devices to connect to a network wirelessly.
+dpi,dots per inch
+Dynamic Allocation,Memory space is only allocated when required at runtime.
+Dynamic Ip Address,An IP address which is automatically assigned to a device before it accesses a network.
+Dynamic Web Page Content,Content that is generated when the web browser request is received.
+ELSEIF,A further logical check performed when the previous statement resulted in a FALSE outcome. It allows multiple conditions to be checked for their truth value.
+Embedded Computer System,"A dedicated computer system with a limited or non-existent user interface and designed to operate completely, or largely, autonomously from within other machinery."
+Embedded System,"A computer built into another device, e.g. a SmartTV."
+Encryption,Coding ('encrypting') data so that it can only be decoded ('decrypted') with the correct key.
+Entity,"An object, person, event or thing of interest to an organisation and about which data are recorded."
+Environmental Issue,An issue relating to how we impact the natural world.
+Erroneous Data,Test data that a program isn't designed to accept.
+Error Diagnostics,Information about an error once it's been detected.
+Errors (Programming),"A failure or fault in a computer program which causes it to produce an incorrect or unexpected result, or to behave in an unintended manner."
+Ethernet,Network protocol used on LANs.
+Ethical Issue,Something which raises questions of right and wrong.
+E-Waste,Discarded computer material.
+Exponential Growth,"Growth that has the form kn, e.g. 2n where k = 2 and n = 1, 2, 3, etc."
+Exponential Time Algorithm,An algorithm whose execution time grows exponentially with input size.
+Extended Ascii,An 8-bit character set consisting of 256 characters.
+Extreme Data,Test data on the boundary of what the program will accept.
+Feasibility Study,A study that investigates the potential of a new system.
+Fetch-Decode-Execute Cycle,The process that the CPU uses to retrieve and execute instructions.
+Fibre Optic Cable,A high performance cable that uses light to carry data.
+Field (Database),A column of a database used to store a category of data.
+File Handling (Programming),Reading from and writing to external files.
+File Management,"The organisation, movement and deletion of files."
+File Sharing,Copying files between devices on a network.
+Final Testing,When the testing stage of the software development cycle is only done once to check the software meets all the initial requirements.
+Firmware,"Permanent software stored on ROM, used to control hardware or embedded systems."
+Flash Memory ,"A technology for storing data in an electronic format which is used for memory cards. e.g. USB, memory cards. "
+Flow Diagram ,A flowchart is a diagram which shows the breakdown of an algorithm into all of the necessary steps and is alternative to Pseudocode. 
+FOR loop,A type of count-controlled iteration statement.
+Frame,The unit used to send data via Ethernet over a LAN.
+Freedom Of Information Act,Legislation which provides public access to information held by public authorities.
+FTP ,Transferring files over the internet using File Transfer Protocol. 
+Function,A sub program that takes parameters and returns a value.
+Functionality Testing,A type of testing that assesses how well a program meets the requirements.
+Gateway,A device used to connect networks using different protocols so that information can be successfully passed from one system to another.
+Gigabyte,1000 megabytes.
+Global Divide,The digital divide between different countries.
+Global Variable,A variable which can be accessed by any line of code within a program
+GPU (acronym),Graphics Processing Unit
+Graphics Card,A piece of hardware containing a GPU.
+GUI (acronym),Graphical User Interface
+GUI builder,An IDE tool for giving a program a graphical user interface.
+Hacker,A person who tries to illegally access or attack a computer network or device.
+Handshaking Protocol,The sending and receiving devices exchange signals to establish that they are each ready to initiate data transfer.
+Hard Disk Drive,Traditional internal storage for PCs and laptops that stores data magnetically.
+Hardware,The physical parts of a computer system.
+Harvard,A type of CPU architecture which uses physically separate memory locations and busses to store and transport both instructions and data
+HDD (acronym),Hard disk drive
+Heat Sink,Pulls heat away from the CPU to help maintain its temperature.
+Hexadecimal,A counting system using base-16 consisting of the digits 0-9 and the letters A-F.
+Hexadecimal Converting To/From Binary,The process of converting hexadecimal numbers to or from binary (Base 2).
+Hexadecimal Converting To/From Denary,The process of converting hexadecimal numbers to or from decimal (Base 10).
+High-Level Language,"A programming language, like C++ and Java, that is easy for humans to understand."
+Hosting (Internet),When a business uses its servers to store the files of another organisation.
+Hotspot,A location where people can access a wireless access point.
+HTTP (acronym),Hyper Text Transfer Protocol
+HTTPS (acronym),Hyper Text Transfer Protocol (Secure)
+Hub/Switches ,The PCs on a network are connected to a 'switch'. A switch manages lots of connections with computers at the same time and lets them all communicate with the server. This job was done by Hub at the past which couldn?t handle all connections. 
+Human-Computer Interaction,"The study, planning and design of what happens when a computer and human work together."
+Hyper Text Transfer Protocol ,"When web pages are requested and then sent over the Internet, another protocol is used in addition to TCP/IP which is the http. "
+IDE (acronym),Integrated Development Environment
+IF statement,Type of selection statement.
+Images,Pictures stored within a computer.
+IMAP,A protocol used to retrieve emaiIs from a server.
+Incremental Backup,A record of all the changes since the last incremental backup.
+Indentation,Spaces put at the beginning of lines of code to help show a program's structure.
+Input Sanitisation,Removing unwanted characters from an input.
+Input Validation,Checking that an input meets certain criteria.
+Insertion Sort,"A sorting approach where the next item in an unordered list is placed, or inserted, in it's correct place within an ordered list"
+Insider Attacks,A network attack where someone within an organisation exploits their network access to steal information.
+Integer (Data Type),A numerical data type for whole numbers.
+Intellectual Property,An original piece of work (or an idea) that someone has created and belongs to them.
+Internet,"The ultimate/biggest/best WAN in the world, based around the TCP/IP protocol."
+Interpreter,A translator that turns the source code into machine code and runs it one instruction at a time.
+IP,The protocol responsible for packet switching. Internet Protocol
+IP address ,An IP address is an address given to any piece of equipment on a network. 
+Iteration Statement,A statement which makes the program repeat a set of instructions.
+Iterative Testing,Repeated testing done during the development of a program.
+Kilobyte,1000 bytes.
+LAN ,"A Local Area Network (LAN) is a network where the workstations are 'close' together. It is usually thought of as computers in the same room, or building or even in a number of buildings, which are next to each other. "
+Lawful Interception,Checking data on a network for cyber security purposes.
+Layers (Network),Groups of protocols that have similar functions.
+Legal Issue,An issue relating to what's right and wrong in the eyes of the law.
+Linear Search,"Starts at the beginning of the list and compares each element in turn with the required value until a match is found, or the end of the list is reached."
+Linear Search Algorithm,"A searching approach where a target value is compared to each item in a list, one after another, until the target value is found or the end of the list is reached."
+Linear Time Algorithm,An algorithm that executes in O(n) time.
+Linker,A programming tool which can combine different compiled codes.
+Linux,An open source operating system.
+List,A collection of elements with an inherent order.
+Local Variable,A variable that is only defined and usable within certain parts of a program.
+Logic Circuit,An electronic circuit for performing logic operations on binary data. It may have more than one logic gate and more than two inputs.
+Logic Error,When a program does something that was not intended.
+Logic Gate,"An electronic circuit component that performs a Boolean operation (e.g. AND, OR or NOT)."
+Loop (Programming),A set of instructions that the program repeats until a condition is met or count is reached.
+Lossless Compression,Temporarily removing data from a file to decrease the file size.
+Lossy Compression,Permanently removing data from the file to decrease the file size.
+Low-Level Language,A programming language that is close to what a CPU would actually do and is written for specific hardware (i.e. CPU type). e.g. machine code and assembly languages.
+MAC address,A unique identifier assigned to a device that cannot be changed. - media access code
+Machine Code,The lowest-level programming language consisting of Os and 1s. CPUs can directly process it as a string of CPU instructions.
+Magnetic Storage Device,These devices store binary data patterns as billions of magnetised areas on a disk. These areas can be read from or written to by a special head that moves over the magnetic area. e.g. HDD(Hard Disk Drive)
+Main Cpu Components,"The control unit, ALU and cache."
+Mainframe (Or Supercomputer),An extremely powerful (and expensive and reliable) computer for specialist applications.
+Maintainability Of Software,"How easy it is to fix bugs, change parameters and respond to changing requirements."
+Maintenance,"Fixing bugs, changing parameters and responding to changing requirements."
+Malware,Malicious software created to damage or gain illegal access to computer systems.
+MAR,A CPU register that holds memory addresses (locations) for data and instructions that the CPU needs. memory address register
+MDR,A CPU register that holds data and instructions. memory data register
+Megabyte,1000 kilobytes.
+Memory,Hardware used to store data that a CPU needs access to.
+Merge Sort,"A sorting approach where a list is split into individual items, these are then sorted as pairs are combined, or merged, together into ordered lists"
+Mesh Topology,A network topology where every device is directly or indirectly connected to every other without a central switch or server.
+Metadata,Extra data stored in a file which gives information about the file's properties.
+Model,An abstraction of an entity in the real world or in the problem that enables an automated solution. The abstraction is a representation of the problem that leaves out unnecessary detail.
+Motherboard,The main circuit board in a computer that other hardware connects to.
+Multi-Core Processor ,A processor with more than one core (processor circuit) which means it can fetch and execute more than one instruction at a time. 
+Multi-Tasking (OS),When an operating system runs multiple programs and applications at the same time.
+Multi-User (OS),When an operating system allows multiple users at the same time.
+Nested If Statement,A selection statement made up of multiple IF statements inside each other.
+Network Forensics,Investigations that organisations undertake to find the cause of attacks on their network.
+Network Policy,A set of rules and procedures an organisation will follow to ensure their network is protected against attacks.
+Network Security,Protection against network attacks.
+Nibble,4 bits.
+NIC,An internal piece of hardware that allows a device to connect to a network. - network interface controller
+Non-Volatile Memory,Memory that retains its contents when it has no power.
+Normal Data,A type of test data that simulates the inputs that users are likely to enter.
+NOT logic gate,"A logic gate with one input. The output will be on if the input is off. If the input is on, the output will be off. Also known as an invertor."
+Off-The-Shelf Software ,"Off-the-Shelf is the sort of software you use it at home or school. e.g. word processor, spreadsheets, databases etc. "
+Open Source (Software),Software that can be modified and shared by anyone.
+Operating System Role,"To manage the hardware resources in order to provide for an orderly and controlled allocation of the processors, memories and I/O devices among the various programs competing for them and manage the storage of data. It hides the complexities of the hardware from the user."
+Operator,"A special symbol like +, *, =, /, AND, ==, that carries out a particular function."
+Optical Disc,"CD, DVD or Blu-Ray disc that is read from/written to with lasers."
+Optical Drive,Device used to read and write to optical discs.
+Optical Storage Devices ,"Optical devices store binary patterns using lasers. e.g. CD- ROM, DVD, Blu-ray disk. "
+Or Logic Gate,"A logic gate with two inputs. The output will be on if either, or both, of the inputs are on. If either both are off, the output will be off."
+Or Operator,One of the Boolean operators.
+Order Of Complexity,Of a problem is its big O complexity.
+OS,"A piece of software responsible for running the computer, managing hardware, applications, users and resources."
+Overclocking,Running a CPU at a higher clock speed than was intended.
+Overflow,The result of a calculation is too large to be represented using the available number of bits.
+Overflow Error,An error that occurs when the computer attempts to process a number that has too many bits for it to handle.
+P2P network,A network in which all devices are equal and connect directly to each other.
+Packet Switching,The process of directing data packets on a network using routers and the IP protocol.
+Packets (Networks),"Small, equal-sized units of data used to transfer files over networks."
+Parallel Data Transmission,Multiple bits are sent down several wires simultaneously.
+Parameter,A variable that a subprogram requires in order to run - it's only defined within the sub program.
+Parity Bit,A bit placed at the end of binary data to show if it's been received correctly.
+Passive Attack (Networks),Where a hacker monitors data travelling on a network.
+Password,A string of characters that allows access to certain parts of a computer or program.
+Patent,"A licence that protects new inventions, ideas and concepts."
+Payload (Network Packets),The part of a packet with the actual data.
+PC (CPU),Holds the memory address of the next CPU instruction. Program Counter
+Peer-To-Peer Network,"A network that has no dedicated servers. All computers are of equal status and can both share resources themselves and use resources from other computers, ie they are peers."
+Pentesting (Penetration Testing),The process of simulating attacks on a network to identify weaknesses.
+Peripheral Device ,A peripheral is any hardware device which is connected to the computer and controlled by CPU. 
+Peripherals,"External hardware connected to a computer. e.g. Mouse, Keyboard, Projector."
+Petabyte,1000 terabytes.
+Pharming,When a phisher changes DNS server information so that customers are directed to another site.
+Phishing,When someone tries to get you to give them your personal information.
+Phishing,When criminals send emails or texts to someone claiming to be a well-known business.
+Pixels,Small dots that make up a bitmap image.
+Plain Text,Message data before it is encrypted.
+Platform (OS),A computer system that other applications can run on.
+POP3,A protocol used to retrieve emails from a server. post office protocol 3
+Power Supply,A piece of hardware that gives the other pieces of hardware the energy they need to run.
+Precision,The maximum number of significant digits that can be represented.
+Primary Key,An attribute or set of attributes which uniquely identifies a tuple.
+Primary Storage,Memory that can be accessed directly by the CPU.
+Principle Of Universality,A universal machine is a machine capable of simulating any other machine.
+Priority Queue,Each element of a priority queue has an associated priority.
+Privacy,"Used to refer to the factors, techniques and technologies to protect sensitive or personal information on the internet."
+Private Ip Address ,IP address is used on LANs. 
+Procedure,A subprogram that carries out a list of instructions.
+Processing,The execution of program instructions by the CPU.
+Program,A set of instructions that can be executed on a computer.
+Program Flow,The order in which statements are executed in a program (controlled with selection and iteration statements).
+Programming,the act of writing program code
+Proprietary Software,Software where modifying and sharing is not permitted.
+Protocols ,"When two devices want to successfully communicate, they must agree to follow some rules about the way they will do it. These are known as ?protocols?. "
+Prototype,An early or trial working version of the proposed system developed to test possible solutions.
+Prototyping,"Building a working model, demonstration system, simplified version, rough copy or trial piece of software to help an analyst."
+Pseudocode,A set of instructions in the style of a programming language but using plain English.
+Pseudo-Random Numbers,A series of numbers generated by computer with apparent randomness.
+Public Domain,Describes content which has no copyright attached to it.
+Public Ip Address ,IP address is used on WANs. 
+Query,A request to retrieve data that meets certain conditions from a database.
+RAM ,Random Access Memory. This is the place where the computer stores programs and files it is using at the moment. 
+Ransomware,A type of malware that uses encryption to lock a user out of their files.
+Real (Data Type),A numerical data type for decimal numbers.
+Register,A temporary data store inside a CPU.
+Relative Error,The absolute error divided by the actual numbers.
+REPEAT-UNTIL loop,Type of iteration statement.
+Resolution,"The density of pixels in an image, often measured in dpi (dots per inch)."
+Ring Topology,"A network topology where the devices are connected in a ring, with data moving in one direction."
+Robust Code,"The program will function reliably and not crash or go into infinite loops, even with incorrect inputs or unpredictable values."
+ROM ,Read Only Memory. ROM holds part of a program that starts running when a computer is switched on. 
+Router,"A device that receives packets or from one host (computer) or router and uses the destination IP address that they contain to pass them correctly formatted, to another host (computer) or router."
+RSI,A health problem caused by doing repeated movements over a long period of time.
+RSI (acronym),repetitive strain injury
+Run-Time Environment,Allows code to be run and tested from within an IDE.
+Sample Size,The number of bits available for each audio sample.
+Sampling,The process of converting analogue signals to digital data.
+Sampling Frequency,The number of audio samples that are taken per second.
+Sampling Intervals,The time between each sample.
+Sanitisation (Programming),Removing unwanted characters from an input.
+Scareware,A type of malware that creates false messages to trick the user into following malicious links.
+Script,"A simple program, often run on command-line interfaces to automate tasks."
+Search Algorithm,A set of instructions that you can follow to find an item in a list.
+Secondary Storage,External data storage used to store data so that the computer can be switched off.
+Selection Statement,A statement which causes the program to make a choice and flow in a given direction - e.g. IF and SWITCH-CASE statements.
+Serial Data Transmission,Single bits are sent one after another along a single wire.
+Server,"A device which provides services for other devices (clients), e.g. file storage/web pages/printer access."
+Sharing Economy,Where people make money from things they already own.
+Significant Digits,Those digits which carry meaning contributing to the accuracy of a number. This includes all digits except leading and trailing zeros where they serve merely as placeholders to indicate the scale of the number.
+Single-User (Os),When an operating system only allows one user to use it at any one time.
+SMTP ,Sending email can be done using Simple Mail Transfer Protocol. 
+Social Engineering,A way of gaining illegal access to data or networks by influencing people.
+Social Media,Web applications which allow people to communicate and share content with others online.
+Software,Programs or applications that can be run on a computer system.
+Software As A Service (Saas),A model of software deployment where an application is hosted as a service provided to customers across the internet.
+Software Licence,A legal agreement that states how software can be used and distributed.
+Solid State Storage ,Memory devices which keeps its data without power and has no moving parts. 
+Sorting Algorithm,A set of instructions that you can follow to order a list of items.
+Sound,Noises stored within a computer
+Source Code,The actual written code of a program.
+Space-Complexity (Of An Algorithm),How much memory an algorithm needs.
+Spoof Website,A fake website that tricks users into thinking it's another well-known website.
+Spyware,A type of malware which secretly monitors and records user actions.
+SQL,sometimes referred to known as SEE-QUIL or ES-QUE-ELLE
+SQL (acronym),Structured Query Language
+SQL injection,A piece of SQL code which can be typed into an input box to try and attack the SQL database.
+SSD,Alternative to a traditional magnetic hard disk drive that uses flash memory and has no moving parts
+Stakeholder,Somebody who has an interest in or is affected by the decisions of an organisation.
+Stand-Alone Computer,"A computer not networked, requiring its own printer and other peripherals plus its own installation of application software."
+Star Topology,A type of network topology where all devices are connected to a central switch or server which controls the network.
+Static Ip Address ,IP address is fixed and is allocated by the network manager. 
+Storage Device,A device used to read and write data to a storage medium.
+Storage Medium,A thing that holds data. It can be part of the storage device (e.g. magnetic disks inside a hard drive) or separate (like a CD).
+String,A data type for text.
+String Data Type,consists of a series of characters
+String Manipulation,The processes used to change part or parts of a series of characters based on rules.
+Sub Program,A set of code within a program that can be called at any time from the main program.
+Surveillance,The act of monitoring what people are accessing on the Internet.
+Switch (Network),Connects devices together on a LAN and directs frames of data to the correct device.
+SWITCH-CASE statement,A type of selection statement.
+Syntax Error,An error in the code where the rules or grammar of the programming language have been broken.
+System Software,Software designed to run or maintain a computer system.
+TCP/IP ,Transmission Control Protocol and Internet Protocol controls how information is successfully transferred between computers on the Internet. 
+Terabyte,1000 gigabytes.
+Tertiary Storage,High-capacity external storage used mainly for back ups.
+Test Data,Inputs that are chosen to see if a program is behaving as intended.
+Test Plan,A detailed plan of how a program is going to be tested including what test data will be used.
+Testing,A way of checking if a program functions correctly and meets certain requirements.
+Time-Complexity (Of An Algorithm),"How fast an algorithm runs, expressed as a function of the number of input values."
+Topology (Networks),"The shape, configuration or structure of the connections that connect device to the network."
+Trace Table,A method for testing algorithms to check there are no logical errors occur whilst the algorithm is being processed. Usually in a table showing the state of each variable and logical statement as each line of code is run
+Traffic (Networks),The amount of data travelling on a network.
+Translator,A program that turns a programming language into machine code.
+Trojan,"A program that hides in or masquerades as desirable software, such as utility or a game, but attacks computers it infects."
+Trolling,The act of trying to provoke public arguments online.
+Truth Table,"A table listing all possible binary inputs through a logic circuit, with the corresponding outputs."
+Two-Dimensional Array,A data structure which is an array of arrays. It will have a pointer for each item and a pointer for each item within that item. (a bit like the x and y coordinates on a graph)
+Underflow,The result of a calculation is too small to be represented using the available number of bits.
+Unicode,A large character set that attempts to include all possible characters.
+Units (Of Data),A standard set of measurements to cover the size of items stored in memory
+URL,An address used to access web servers and resources on them. Uniform Resource Locator
+User Access Levels,Controls which files or areas of the network different groups of users can access.
+User Account,An account which is used to control the access rights to files or networks for an individual
+User Interface,Provides a way for the user to interact with the computer.
+User Interface ,"Software that enables the user to provide instructions to, interact with the computer or any device. It is part of the operating system. "
+Utility Software,Software designed to help maintain a computer system.
+Validation,Checking that an input meets certain criteria.
+Validation,Checking that an input meets certain criteria.
+Variable,A named value which can be changed as the program is running.
+Viral,Content on the Internet which has spread rapidly via social media.
+Virtual Machine,"The apparent machine that the operating system presents to the user, achieved by hiding the complexities of the hardware behind layers of operating system software."
+Virtual Memory ,Virtual memory is when the computer uses some of its hard disk space as if it were RAM. 
+Virtual Network,A software-based network that exists between devices on a physical network.
+Virtual Server,A software-based server.
+Virus (Computer),A small program attached to another program or data file. It replicates itself by attaching itself to other programs.
+Volatile Memory,Memory that loses its contents when it has no power.
+Von Neumann,A type of CPU architecture which uses common memory locations and busses to store and transport both instructions and data
+Von Neumann Bottleneck,A limitation of the computer architecture where the CPU is idle whilst waiting for data to be fetched from memory
+WAN ,A Wide Area Network (WAN) is where the workstations are 'further apart' from each other. WANs are usually made up of LANs connected together. 
+WAP,A piece of hardware that allows devices to connect wirelessly.
+Wap (Acronym),wireless access point
+Web Server Extension,"A program written in native code, ie an executable or a script that is interpreted by an interpreter running on the web server that extends the functionality of the web server and allows it to generate content at the time of the HTTP request."
+Web Services,"Self-contained, modular applications that can be described, published, located and invoked over a network, generally the web."
+WEEE,Legislation which governs how electric and electronic items should be disposed of or recycled. Waste Electric and Electronic Equipment directive
+WHILE loop,Type of iteration statement
+Whitelist,A list of inputs that a program should accept.
+WiFi,Trademarked IEEE 802.11 technologies that support wireless networking of home and business networks.
+Wi-Fi,The standard used for wireless connections between devices.
+Wimp,"A GUI based on windows, icons, menus and pointers."
+Wired Networks,Computers or networks which are connected using physical cables to allow the transmission of information
+Wireless Network,"Any type of local area network (LAN) in which the nodes (computers or computing devices, often portable devices) are not connected by wires but use radio waves to transmit data between them."
+Worm,A small program that exploits a network security weakness (security hole) to replicate itself through computer networks.
+www,The collection of websites hosted on the Internet.
+www (acronym),WORLD Wide Web
+3G , The second generation of digital cellular communications technology characterized by minimum speeds of hundreds of kbps and tens of Mbps at the high end.
+4G , A digital cellular communications technology that ranges in speed from 100Mbps to 1Gbps and is based entirely on a packet-switched IP network.
+5G , An emerging digital cellular communications technology exceeding the specifications of earlier generations of mobile communication.
+analog signal , A communications waveform that is analogous to the source of the signal.
+antenna , A device that converts between radio waves and electrical current.
+ARP (Address Resolution Protocol) , The protocol responsible for associating a logical address (often from a Layer-3 protocol) with a physical address (often from a Layer-2 protocol).
+AS (Autonomous System) ," A group of networking devices, networks and end systems falling under a single technical administration."
+ASCII (American Standard Code for Information Interchange) , The character set used in the Disk Operating System (DOS) of the original IBM Personal Computer (IBM/PC) line.
+ASIC (Application-Specific Integrated Circuit) , A “computer chip” designed for a specific use.
+asynchronous communication , A data communication method between two devices that is achieved without using a common clock signal.
+attenuation , Loss of signal strength along a communications pathway.
+backbone , A media pathway of higher capacity than those used to connect end devices to the network.
+bandwidth ," In analog or digital communication, the channel occupied by the carrier and measured as the difference in hertz (Hz) between the highest and lowest frequencies in the channel."
+baseband , A type of digital signaling that features the use of a single frequency or near-zero bandwidth to transmit a bitstream.
+baseline , The archived results of one or more tests that are performed on a properly functioning system or network and used as a standard against which to compare future results; also defined as the collecting and archiving of such results.
+BGP (Border Gateway Protocol) , The exterior gateway routing protocol used to build the routing table of the commercial internet.
+binary , Characterized by having two parts.
+bit (b) , The basic unit of the binary numbering system.
+bits per second (b/s or bps) , A unit of measure for the movement of data between devices and/or across a medium.
+biometrics , A form of identification based on individual human traits.
+BIOS (Basic Input/Output System) ," The system firmware in older computer systems and some modern systems responsible for orchestrating hardware registration during bootup, locating and passing control to a bootable operating system, and then carrying out various instructions, from the operating system and its drivers, directed toward system hardware and its input/output (I/O) interfaces."
+bridge ," In Ethernet, a Layer-2 legacy networking device replaced almost completely by routers in modern networks."
+broadband ," A type of wide-bandwidth communications signaling that supports the transmission of data from multiple sources, including those of varying types, separated across the series of frequencies in the bandwidth."
+buffer , A digital memory location used to reduce the loss of data or the variation in the rate of data transmission.
+byte (B) , The most basic collection of bits required by a transmission pathway.
+cable modem , The customer premise equipment (CPE) used to send and receive internet traffic over a coaxial cable television circuit.
+Channel Service Unit/Data Service Unit (CSU/DSU) ," A data circuit-terminating equipment (DCE) form of customer premise equipment (CPE) used to connect enterprise networking devices to a synchronous digital network, such as a T1 circuit."
+checksum , An error detection mechanism for data that is based on the data but is generally much smaller than the original data.
+circuit-switched network , A telephony or wide area network (WAN) link that provides a temporary connection over a dedicated pathway through the service provider’s network core.
+CLI (Command Line Interface) , A user interface (UI) characterized by a text-based individual command parser.
+client/server architecture ," A networking model in which specialized computing systems, known as servers, provide one or more possible resources to less powerful systems, known as clients, upon request."
+cloud , A term stemming from the abstract concept that the same data and services are available from seemingly limitless points of access.
+coaxial cable ," Also known as coax for short; a common form of copper cabling characterized by having two conductors: one being the core of the cable, which is surrounded by the other, a braided shield."
+codec , A portmanteau of coder/decoder; an algorithm or a device using such an algorithm for converting analog sounds to digital bit streams (coding) and back (decoding).
+compression , The reduction of the amount of data that is transmitted or stored.
+console , The input and output devices employed by the user in operating a user interface (UI).
+cookie , A piece of data stored on a user’s system by their web browser.
+data , Any form of information that is used as input to a system or application for processing or that is produced as the output from a system or application.
+DHCP (Dynamic Host Configuration Protocol) , A TCP/IP protocol for assigning IP addresses and related settings to clients on a temporary or permanent basis.
+DNS (Domain Name System) , A TCP/IP protocol and general term for the global or enterprise network of systems responsible for resolving fully-qualified domain names (FQDNs) to IP addresses.
+driver , Software code that allows an operating system to use a piece of hardware by providing logical control.
+DSL (Digital Subscriber Line) , A broadband internet-access circuit based on a standard pair of phone wires.
+encapsulation , The addition of control information to a data payload to form a protocol data unit (PDU) that is compatible with the encapsulating technology.
+encryption ," The act of altering data to make it unreadable by any person or device, except by the intended recipient, with which a security association has been negotiated, or by an authorized retrieving application."
+Ethernet , The most common LAN technology in use today.
+frame , The basic data unit of Layer-2 and some Layer-1 protocols.
+FTP (File Transfer Protocol) , A TCP/IP protocol for transferring data between a client and server at the file level.
+gateway , A classic term for a router; a router at the edge of a network or enterprise internet; a multi-layer protocol converter.
+GPS (Global Positioning System) ," Developed for military use, the worldwide network of satellites used to pinpoint the location and altitude of terrestrial mobile electronics; in general, the access service subscribed to or the devices employed by users of the GPS network."
+GUI (Graphical User Interface) , A computing user interface (UI) characterized by a full-screen work area and icons that represent objects such as folders and files.
+hard drive , Also known as a hard disk drive (HDD); the standard form of permanent magnetic storage for a computer system.
+hardware ," As opposed to software, the durable components of the computer system."
+host , A networked device with an IP address; a mainframe computer system; the operating system on which a hypervisor runs.
+hub ," A Layer-1 Ethernet device with multiple network interfaces; in general, the central concentrating device in a star-wired hub-and-spoke topology."
+interface ," A physical port used for connectivity to a network or peripheral device; a point of interconnection between two cables, two components, two protocols, two software processes, or two networks."
+internetwork , A network of networks.
+IPsec (Internet Protocol Security) , A framework of protocols designed to secure IP traffic between two endpoints.
+IPv4 , The primary Layer-3 protocol in use on the internet and private intranets.
+IPv6 , The Layer-3 protocol designed to replace IPv4.
+ISDN (Integrated Services Digital Network) , A collection of lower-layer protocols and related circuits often used for broadband internet access.
+jitter , Variation in the latency (delay) on a network.
+LAN (Local Area Network) ," A network that is fully owned by an enterprise; a network that geographically spans a small area, such as a building or floor; a network consisting of all devices behind and including a single router interface; a network that uses a class of Layer-2 protocols limited to deployment on a LAN."
+latency , The amount of delay in a communication pathway.
+load balancing , Sending proportionate data traffic across multiple signal pathways.
+Man-in-the-Middle Attack (MITM) , Any of a family of cyber-attacks characterized by insinuating the attacking system between two legitimately communicating systems.
+memory , Location for the temporary or permanent storage of data.
+mirroring , Configuring an interface on an Ethernet switch to forward frames intended for all other interfaces.
+modem (modulator/demodulator) ," A data communications equipment (DCE) device that assists a data terminal equipment (DTE) device, such as a personal computer, in communicating across a wide-area link."
+motherboard , The main circuit board in a computer system.
+multiplexing , The combining of multiple sources of data traffic onto a single communications pathway.
+node , Any active device anywhere in a network.
+Operating System (OS) , The primary systems software on a computer system or other intelligent electronic device.
+optical fiber , A type of cabling media that guides light waves down a core made of glass or plastic.
+OSI model (Open Systems Interconnection) , The preeminent reference model in the industry.
+OSPF (Open Shortest Path First) , A link-state routing protocol that supports large private internetworks.
+packet , The data structure often associated with Layer-3 protocols.
+packet switched network ," A network characterized by constantly variable pathways, created on demand or permanently established, through a group of switches."
+ping ," The act of, or the utility used in, testing the availability of a remote IP host."
+policy , An established corporate edict that serves as the beginning of standards and procedures being developed and implemented.
+port , A physical interface on an electronic device; a differentiating logical identifier for an application or process.
+processor ," Shortened form of central processing unit (CPU), the main integrated circuit in a computer or computerized system."
+protocol , An agreed upon method for communication; a set of rules for communication.
+proxy server , An edge device that acts on behalf of other devices.
+public key cryptography ," The use of a related public and private pair of cryptographic keys for authentication, confidentiality, or both."
+RAID (Redundant Array of Independent Disks) ," A fault tolerance, capacity improvement, and performance improvement solution for data storage."
+RAM (Random Access Memory) , A type of memory characterized by allowing the access of any addressable location in any order; the main system memory of a computer.
+reboot , To restart a device; the restarting of a device.
+router , A Layer-3 device used in forwarding traffic from one logical segment to another to send the traffic toward the intended recipient.
+routing protocol , A protocol that helps to build a routing table.
+routing table , A database of known network and host destinations from the perspective of the device that uses it.
+server , A device that shares a resource with a client.
+Single Sign-On (SSO) , An authentication model in which only one set of login credentials is required to gain access to many systems.
+software , Any digital content that is currently in a storage location or that can be referred to in the abstract.
+Spanning Tree Protocol (STP) , A bridging and switching protocol designed to prevent broadcast storms in logical segments that contain physical loops.
+spooling , Storing content to be printed in a buffer held in RAM or on a drive until the printer is ready to process the print job.
+subnetting ," The act of splitting a larger IP address space into smaller broadcast domains known as subnetworks or subnets (not to be confused with subnet masks, or masks for short)."
+switch ," A Layer-2 device that forwards, filters, or floods frames based on the destination address in the header of the frame."
+T1 (also written T-1) , One of a class of digital terrestrial circuits that consists of 24 distinct time-division multiplexed channels and a bitrate of 1.
+TCP (Transmission Control Protocol) , The primary Layer-4 protocol in the TCP/IP protocol suite.
+TCP/IP (Transmission Control Protocol/Internet Protocol) , The principal protocol suite in use in the industry today.
+transceiver , A portmanteau for transmitter/receiver that refers to a circuit that transmits outbound traffic to and receives inbound traffic from a network.
+topology , The physical or logical layout of a network.
+touchscreen , The screen of a monitor that also acts as an input device.
+twisted-pair cable , The primary form of copper cable used in modern star-wired networks.
+UDP (User Datagram Protocol) ," Along with TCP, one of the two Layer-4 transport protocols in the TCP/IP suite."
+unified communications (UC) , The collection of communications and messaging methods that can be implemented together and combined into common transmissions or result in content that can be shared among the methods.
+uninterruptible power supply (UPS) , A small to midsize battery backup system.
+virtual LAN (VLAN) , A broadcast domain created through configuration on a Layer-2 switch.
+Voice over Internet Protocol (VoIP) ," A framework of protocols that enables two or more IP hosts, usually IP phones, to digitize and packetize analog voice signals and transmit them to one another."
+Virtual Private Network (VPN) ," A network created by encrypting traffic between two endpoints that are connected to one another across an insecure network, such as the internet."
+wavelength , The property of analog and digital signals found by measuring the distance between where one wave begins and where the subsequent wave begins.
+Wide Area Network (WAN) ," A network that is leased from a service provider; a network that geographically spans a large area, such as between cities or around the world; a network spanning a great distance between two router interfaces; a network that uses a class of Layer-2 protocols positioned for deployment on a WAN."
+Wi-Fi , The term used by the Wi-Fi Alliance to refer to the technology that the IEEE calls 802.
+wireless security , A group of protocols that are used for authentication and to secure wireless LANs (WLANs) to varying levels.
+wireless , A form of node connectivity that replaces cables with radio waves or invisible wavelengths of light.
+Wireless Access Point (WAP) , A concentrating device for wireless networks.
